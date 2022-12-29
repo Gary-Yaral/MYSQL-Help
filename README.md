@@ -8,7 +8,7 @@ A continuación te dejo las sentencias que debes usar.
 
 ``` sql
 SET FOREIGN_KEY_CHECKS=0; -- deshabilitas
-DROP TABLE table_name
+DROP TABLE table_name; --eliminas la tabla
 SET FOREIGN_KEY_CHECKS=1; -- habilitas nuevamente
 ```
 
